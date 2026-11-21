@@ -1,0 +1,18 @@
+GLOBAL BANKING CORP - ENTERPRISE CREDIT RISK POLICY
+STANDARD OPERATING PROCEDURE: COMMERCIAL REAL ESTATE & INDUSTRIAL LENDING (REV. 2025.4)
+
+1. MANDATORY COVERAGE RATIOS
+- Debt Service Coverage Ratio (DSCR):
+  - Standard Tier 1 Borrowers: Minimum acceptable DSCR is 1.25x based on trailing twelve months (TTM) Net Operating Income.
+  - Cautionary / Tier 2 Borrowers: DSCR between 1.15x and 1.24x requires a compensating collateral haircut or secondary guarantee.
+  - Substandard / Decline: DSCR below 1.15x represents an unacceptable default risk and must be declined.
+- Loan-to-Value (LTV) Cap: Maximum 75% on commercial warehousing; 65% on specialized cold-chain logistics hubs.
+
+2. CREDIT FACILITY APPROVAL THRESHOLDS
+- Delegated Underwriter Authority: Loans up to $250,000 USD may be approved by a Senior Credit Analyst.
+- Senior Credit Committee Approval: Any credit facility or line expansion exceeding $250,000 USD strictly requires two executive committee sign-offs.
+
+3. REQUIRED UNDERWRITING DOCUMENTATION
+- Full audited financial statements or Form 10-K filings for the preceding two fiscal years.
+- Valid corporate registration and Employer Identification Number (EIN).
+- Clean AML/KYC screening certificate issued within 30 days of loan application.

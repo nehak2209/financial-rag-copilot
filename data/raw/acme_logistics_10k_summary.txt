@@ -1,0 +1,25 @@
+ACME LOGISTICS GROUP, INC.
+FORM 10-K ANNUAL REPORT SUMMARY (CONSOLIDATED)
+FISCAL YEAR ENDED: DECEMBER 31, 2025
+EIN / TAX ID: 12-3456789
+PRIMARY INDUSTRY: Commercial Freight, Cold-Chain Distribution, & Warehousing
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+
+1. REVENUE AND EARNINGS SUMMARY
+- Total Operating Revenue: $18,450,000 USD (up 6.2% year-over-year from $17,370,000 USD in 2024).
+- Operating Expenses: $15,650,000 USD (includes fleet maintenance, fuel hedge settlements, driver wages, and warehouse leasing).
+- Net Operating Income (NOI): $2,800,000 USD.
+- Net Income After Taxes: $1,920,000 USD.
+
+2. EXISTING DEBT OBLIGATIONS & ANNUAL DEBT SERVICE
+- Senior Secured Term Loan Facility (First Lien): $8,500,000 balance remaining; interest rate fixed at 5.75%.
+  - Annual Principal & Interest Payments: $1,150,000 USD.
+- Commercial Fleet Equipment Financing: $3,200,000 balance remaining; variable interest rate SOFR + 2.10%.
+  - Annual Principal & Interest Payments: $650,000 USD.
+- Total Current Annual Debt Service: $1,800,000 USD.
+
+3. LIQUIDITY AND CONTINGENCIES
+- Unrestricted Cash & Cash Equivalents: $1,420,000 USD.
+- Accounts Receivable (Aging < 60 days): $2,180,000 USD.
+- Outstanding Material Litigation: None reported. The company maintains full compliance with regional transportation safety mandates.

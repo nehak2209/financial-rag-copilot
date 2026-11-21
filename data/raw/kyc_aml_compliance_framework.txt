@@ -1,0 +1,13 @@
+INSTITUTIONAL REGULATORY COMPLIANCE MANUAL
+SECTION 4: CUSTOMER DUE DILIGENCE (CDD) & ANTI-MONEY LAUNDERING (AML) STANDARDS
+
+1. CORPORATE VERIFICATION REQUIREMENTS
+- Every commercial borrower must undergo automated screening against the Office of Foreign Assets Control (OFAC) Specially Designated Nationals (SDN) list and global PEP (Politically Exposed Persons) databases.
+- Verification must confirm:
+  1. Active status with state or national business registry.
+  2. Matching legal corporate name and registered Tax Identification Number (EIN).
+  3. Identified Beneficial Ownership (all individuals holding 25% or greater equity).
+
+2. RED FLAGS AND IMMEDIATE INTERVENTIONS
+- Any entity containing corporate naming conventions indicative of non-operating shell structures (e.g., words containing 'SHELL CORP', 'OFFSHORE NOMINEE', or unverified holding entities without physical premises) must be flagged with risk score > 90.
+- Mandatory Action: Flagged entities cannot receive automated approval. The agent must halt the underwriting process and dispatch a manual suspicious activity report (SAR) evaluation to the AML Compliance Unit.
